@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Back-end of FIFA, management system building by Thanhpdc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/congthanh112/FIFA.git"
+  },
+  "author": "Thanhpdc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/congthanh112/FIFA/issues"
+  },
+  "homepage": "https://github.com/congthanh112/FIFA#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.15"
+  }
+}
